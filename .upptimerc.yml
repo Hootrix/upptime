@@ -5,10 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Hhtjim
+  - name: "HHTjim'S 部落格"
     url: https://www.hhtjim.com
   - name: Link
     url: https://link.hhtjim.com
+  - name: Link MP3 API
+    url: https://link.hhtjim.com/163/5146554.mp3
+    expectedStatusCodes:
+      - 302
+      - 303
+    
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
