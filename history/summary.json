@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/link.hhtjim.com.ico",
     "slug": "link-mp-3-api",
     "status": "down",
-    "uptime": "30.33%",
-    "uptimeDay": "30.33%",
-    "uptimeWeek": "30.33%",
-    "uptimeMonth": "30.33%",
-    "uptimeYear": "30.33%",
+    "uptime": "4.86%",
+    "uptimeDay": "4.86%",
+    "uptimeWeek": "4.86%",
+    "uptimeMonth": "4.86%",
+    "uptimeYear": "4.86%",
     "time": 3330,
     "timeDay": 3330,
     "timeWeek": 3330,
     "timeMonth": 3330,
     "timeYear": 3330,
     "dailyMinutesDown": {
-      "2024-06-06": 0
+      "2024-06-06": 2
     }
   }
 ]
