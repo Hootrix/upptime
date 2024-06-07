@@ -26,6 +26,9 @@ sites:
   #   ipv6: true
 
 status-website:
+  # disable Search crawler reboot
+  robotsText: "User-agent: * \n Disallow: /"
+  
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.hhtjim.com
@@ -42,3 +45,9 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  allSystemsOperational: "🟩 所有系统运行正常"
+  degradedPerformance: "🟨 部分系统性能下降"
+  completeOutage: "🟥 全部故障"
+  partialOutage: "🟧 部分故障"
+
