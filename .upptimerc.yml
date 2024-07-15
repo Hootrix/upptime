@@ -18,6 +18,8 @@ sites:
       - 206
   - name: DeeplX(H2G)
     url: $DEEPLX_URL
+  - name: DeeplX2(H2G)
+    url: $DEEPLX_2_URL
     
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
