@@ -1,7 +1,7 @@
 url: $DEEPLX_URL
-status: down
-code: 502
-responseTime: 1155
-lastUpdated: 2025-01-15T12:51:34.294Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2025-01-15T13:44:03.473Z
 startTime: 2024-06-07T06:52:19.904Z
 generator: Upptime <https://github.com/upptime/upptime>
