@@ -26,6 +26,8 @@ sites:
       - 404
       - 200
       - 304
+  - name: suworld api
+    url: $SUWORLD_INFO_URL
     
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
