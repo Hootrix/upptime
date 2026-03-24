@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 158,
-    "timeDay": 78,
-    "timeWeek": 110,
-    "timeMonth": 128,
+    "timeDay": 133,
+    "timeWeek": 119,
+    "timeMonth": 125,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-01-21": 30,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 625,
-    "timeDay": 1184,
-    "timeWeek": 1111,
-    "timeMonth": 1126,
-    "timeYear": 656,
+    "timeDay": 732,
+    "timeWeek": 1024,
+    "timeMonth": 917,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2025-06-29": 211,
       "2025-06-02": 26,
@@ -58,9 +58,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
-    "time": 315,
-    "timeDay": 246,
-    "timeWeek": 237,
+    "time": 314,
+    "timeDay": 175,
+    "timeWeek": 228,
     "timeMonth": 217,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -85,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "97.12%",
-    "time": 4236,
-    "timeDay": 3226,
-    "timeWeek": 3244,
-    "timeMonth": 3772,
-    "timeYear": 4634,
+    "time": 4237,
+    "timeDay": 2943,
+    "timeWeek": 3187,
+    "timeMonth": 3691,
+    "timeYear": 4635,
     "dailyMinutesDown": {
       "2026-03-15": 318,
       "2026-03-10": 40,
@@ -133,8 +133,7 @@
       "2025-05-06": 271,
       "2025-04-28": 76,
       "2025-04-18": 70,
-      "2025-04-08": 20,
-      "2025-03-24": 51
+      "2025-04-08": 20
     }
   },
   {
@@ -143,15 +142,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.hhtjim.com.ico",
     "slug": "rss",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.53%",
     "uptimeYear": "94.12%",
     "time": 446,
-    "timeDay": 534,
-    "timeWeek": 500,
-    "timeMonth": 423,
+    "timeDay": 466,
+    "timeWeek": 494,
+    "timeMonth": 422,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2026-03-15": 348,
@@ -211,8 +210,7 @@
       "2025-04-30": 49,
       "2025-04-28": 76,
       "2025-04-18": 70,
-      "2025-04-07": 20,
-      "2025-03-24": 75
+      "2025-04-07": 20
     }
   }
 ]
