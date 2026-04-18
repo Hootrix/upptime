@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 160,
-    "timeDay": 92,
-    "timeWeek": 143,
-    "timeMonth": 126,
+    "timeDay": 151,
+    "timeWeek": 147,
+    "timeMonth": 128,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-04-11": 84,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 635,
-    "timeDay": 506,
-    "timeWeek": 663,
-    "timeMonth": 760,
-    "timeYear": 669,
+    "timeDay": 650,
+    "timeWeek": 649,
+    "timeMonth": 711,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2025-06-29": 211,
       "2025-06-02": 26,
@@ -59,10 +59,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
-    "time": 229,
-    "timeDay": 86,
-    "timeWeek": 227,
-    "timeMonth": 222,
+    "time": 228,
+    "timeDay": 169,
+    "timeWeek": 214,
+    "timeMonth": 218,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2026-04-08": 70,
@@ -86,11 +86,11 @@
     "uptimeWeek": "97.41%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "97.04%",
-    "time": 4224,
-    "timeDay": 2311,
-    "timeWeek": 2684,
-    "timeMonth": 2871,
-    "timeYear": 4538,
+    "time": 4221,
+    "timeDay": 2388,
+    "timeWeek": 2670,
+    "timeMonth": 2839,
+    "timeYear": 4533,
     "dailyMinutesDown": {
       "2026-04-13": 225,
       "2026-04-11": 37,
@@ -138,8 +138,7 @@
       "2025-05-17": 49,
       "2025-05-07": 292,
       "2025-05-06": 271,
-      "2025-04-28": 76,
-      "2025-04-18": 70
+      "2025-04-28": 76
     }
   },
   {
@@ -148,15 +147,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.hhtjim.com.ico",
     "slug": "rss",
     "status": "up",
-    "uptime": "95.69%",
+    "uptime": "95.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.92%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "94.05%",
     "time": 448,
-    "timeDay": 333,
-    "timeWeek": 365,
-    "timeMonth": 473,
+    "timeDay": 438,
+    "timeWeek": 360,
+    "timeMonth": 471,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2026-04-13": 225,
@@ -218,8 +217,7 @@
       "2025-05-17": 40,
       "2025-05-06": 262,
       "2025-04-30": 49,
-      "2025-04-28": 76,
-      "2025-04-18": 70
+      "2025-04-28": 76
     }
   }
 ]
