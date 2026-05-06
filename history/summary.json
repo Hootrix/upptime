@@ -11,8 +11,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 160,
-    "timeDay": 112,
-    "timeWeek": 104,
+    "timeDay": 107,
+    "timeWeek": 110,
     "timeMonth": 119,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 647,
-    "timeDay": 822,
-    "timeWeek": 961,
-    "timeMonth": 783,
-    "timeYear": 687,
+    "timeDay": 723,
+    "timeWeek": 882,
+    "timeMonth": 782,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2025-06-29": 211,
       "2025-06-02": 26,
@@ -59,9 +59,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
     "time": 208,
-    "timeDay": 235,
-    "timeWeek": 229,
-    "timeMonth": 208,
+    "timeDay": 175,
+    "timeWeek": 220,
+    "timeMonth": 206,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2026-04-08": 70,
@@ -70,8 +70,7 @@
       "2025-12-04": 53,
       "2025-08-29": 27,
       "2025-07-24": 24,
-      "2025-05-07": 292,
-      "2025-05-06": 24
+      "2025-05-07": 292
     }
   },
   {
@@ -86,9 +85,9 @@
     "uptimeMonth": "96.89%",
     "uptimeYear": "96.87%",
     "time": 4193,
-    "timeDay": 2488,
-    "timeWeek": 2763,
-    "timeMonth": 2694,
+    "timeDay": 2634,
+    "timeWeek": 2837,
+    "timeMonth": 2713,
     "timeYear": 4448,
     "dailyMinutesDown": {
       "2026-05-05": 70,
@@ -138,8 +137,7 @@
       "2025-06-24": 137,
       "2025-06-17": 120,
       "2025-05-17": 49,
-      "2025-05-07": 292,
-      "2025-05-06": 271
+      "2025-05-07": 292
     }
   },
   {
@@ -148,15 +146,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.hhtjim.com.ico",
     "slug": "rss",
     "status": "up",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "95.13%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "96.93%",
     "uptimeYear": "93.89%",
     "time": 433,
-    "timeDay": 453,
-    "timeWeek": 479,
-    "timeMonth": 401,
+    "timeDay": 370,
+    "timeWeek": 469,
+    "timeMonth": 399,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2026-05-05": 70,
@@ -218,8 +216,7 @@
       "2025-06-24": 137,
       "2025-06-17": 156,
       "2025-06-02": 34,
-      "2025-05-17": 40,
-      "2025-05-06": 262
+      "2025-05-17": 40
     }
   }
 ]
