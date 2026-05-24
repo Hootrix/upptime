@@ -30,7 +30,7 @@
     "slug": "hh-tjim-s",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "73.43%",
+    "uptimeDay": "77.66%",
     "uptimeWeek": "84.97%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "99.10%",
@@ -79,17 +79,17 @@
     "url": "https://link.hhtjim.com/163/5146554.mp3",
     "icon": "https://icons.duckduckgo.com/ip3/link.hhtjim.com.ico",
     "slug": "link-mp-3-api",
-    "status": "down",
+    "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "96.91%",
-    "time": 4182,
-    "timeDay": 2346,
-    "timeWeek": 2758,
-    "timeMonth": 2718,
-    "timeYear": 4358,
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.90%",
+    "time": 4180,
+    "timeDay": 2454,
+    "timeWeek": 2748,
+    "timeMonth": 2717,
+    "timeYear": 4354,
     "dailyMinutesDown": {
       "2025-06-17": 120,
       "2025-06-24": 137,
@@ -138,7 +138,7 @@
       "2026-04-24": 444,
       "2026-05-05": 70,
       "2026-05-13": 410,
-      "2026-05-24": 0
+      "2026-05-24": 61
     }
   },
   {
@@ -146,16 +146,16 @@
     "url": "https://rss.hhtjim.com",
     "icon": "https://icons.duckduckgo.com/ip3/rss.hhtjim.com.ico",
     "slug": "rss",
-    "status": "down",
-    "uptime": "95.80%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "93.87%",
+    "status": "up",
+    "uptime": "95.79%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "93.86%",
     "time": 431,
-    "timeDay": 263,
-    "timeWeek": 381,
-    "timeMonth": 374,
+    "timeDay": 326,
+    "timeWeek": 389,
+    "timeMonth": 376,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2025-06-02": 34,
@@ -218,7 +218,7 @@
       "2026-04-24": 444,
       "2026-05-05": 70,
       "2026-05-13": 409,
-      "2026-05-24": 0
+      "2026-05-24": 61
     }
   }
 ]
