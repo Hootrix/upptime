@@ -162,16 +162,16 @@
     "url": "https://rss.hhtjim.com",
     "icon": "https://icons.duckduckgo.com/ip3/rss.hhtjim.com.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "96.09%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "93.80%",
-    "time": 422,
-    "timeDay": 463,
-    "timeWeek": 427,
-    "timeMonth": 381,
+    "time": 421,
+    "timeDay": 293,
+    "timeWeek": 389,
+    "timeMonth": 373,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-07-20": 75,
@@ -232,7 +232,8 @@
       "2026-05-24": 61,
       "2026-06-13": 457,
       "2026-06-20": 223,
-      "2026-06-28": 90
+      "2026-06-28": 90,
+      "2026-07-19": 0
     }
   }
 ]
